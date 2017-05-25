@@ -1,37 +1,38 @@
- This is a test website!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Brenden Dooly's Intro to XML Home Page</title>
+  <meta charset="utf-8">
+<link rel="stylesheet" href="homepage.css">
+</head>
+<body>
+<div id="wrapper">
+<!-- Brenden Dooly
+     default.htm
+     INFO2351-4A
+     Bridgham
+     3/15/2017
+-->
+<header>
+<h1>Brenden Dooly's Intro to XML Web Site</h1>
+<h2>Spring 2017</h2>
+</header>
+<main>
+<h3>Homework Assignments</h3>
 
-You can use the [editor on GitHub](https://github.com/Bdooly/bdooly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bdooly/bdooly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ <h3>Important Links</h3>
+ <ul>
+	<li><a href="http://Blackboard.mccneb.edu">Blackboard Course Web Site</a></li>
+	<li><a href="http://www.mccneb.edu">Metro Web Site</a></li>
+	<li><a href="http://validator.w3.org">W3C (X)HTML Validator</a></li>
+	<li><a href="http://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
+ 
+ </ul>
+ </main>
+ <footer>
+<p>&copy;Created by <a href="mailto:bdooly@mail.mccneb.edu">Brenden Dooly</a></p>
+</footer>
+ 
+ </div>
+</body>
+</html>
