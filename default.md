@@ -3,7 +3,7 @@
 <head>
   <title>Brenden Dooly's Intro to XML Home Page</title>
   <meta charset="utf-8">
-<link rel="stylesheet" href="homepage.css">
+
 </head>
 <body>
 <div id="wrapper">
