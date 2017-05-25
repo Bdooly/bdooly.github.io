@@ -7,12 +7,6 @@
 </head>
 <body>
 <div id="wrapper">
-<!-- Brenden Dooly
-     default.htm
-     INFO2351-4A
-     Bridgham
-     3/15/2017
--->
 <header>
 <h1>Brenden Dooly's Intro to XML Web Site</h1>
 <h2>Spring 2017</h2>
