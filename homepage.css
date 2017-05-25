@@ -1,0 +1,24 @@
+body  {font-family: arial, verdana, helvetica, sans-serif;
+		background-color: #D3D3D3;
+		margin: 0px}
+#wrapper{width: 900px;
+		background-color: white;
+		margin-left: auto;
+		margin-right: auto;
+		}
+header {background-color: #B0C4DE}
+
+h1 {font-family: Trebuchet MS, sans-serif;
+	color: 	#0000FF;
+	text-shadow: 3px 3px 5px black;}
+
+h2 {color: 	#00FFFF;
+	margin-top: -20px;
+	margin-left: 30px;}
+h3 {color: #000080;
+	font-family: Trebuchet MS, sans-serif;}
+
+footer {background-color: #B0C4DE;
+		text-align: right;
+		font-size: .8em;
+		font-style: italic;}	
